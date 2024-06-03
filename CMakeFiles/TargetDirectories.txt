@@ -1,0 +1,3 @@
+/home/javenhawl/VScodeFiles/.vscode/Calculator/CMakeFiles/calculator.dir
+/home/javenhawl/VScodeFiles/.vscode/Calculator/CMakeFiles/edit_cache.dir
+/home/javenhawl/VScodeFiles/.vscode/Calculator/CMakeFiles/rebuild_cache.dir
