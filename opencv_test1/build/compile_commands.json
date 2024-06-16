@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/javenhawl/Code/opencv_test1/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/opencv_test1.dir/main.cpp.o -c /home/javenhawl/Code/opencv_test1/main.cpp",
+  "file": "/home/javenhawl/Code/opencv_test1/main.cpp",
+  "output": "CMakeFiles/opencv_test1.dir/main.cpp.o"
+},
+{
+  "directory": "/home/javenhawl/Code/opencv_test1/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/opencv_test1.dir/show.cpp.o -c /home/javenhawl/Code/opencv_test1/show.cpp",
+  "file": "/home/javenhawl/Code/opencv_test1/show.cpp",
+  "output": "CMakeFiles/opencv_test1.dir/show.cpp.o"
+},
+{
+  "directory": "/home/javenhawl/Code/opencv_test1/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/opencv_test1.dir/NHWC_to_NCHW.cpp.o -c /home/javenhawl/Code/opencv_test1/NHWC_to_NCHW.cpp",
+  "file": "/home/javenhawl/Code/opencv_test1/NHWC_to_NCHW.cpp",
+  "output": "CMakeFiles/opencv_test1.dir/NHWC_to_NCHW.cpp.o"
+}
+]
